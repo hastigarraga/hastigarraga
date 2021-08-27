@@ -9,6 +9,8 @@
 </div>
 
 
+![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
+
 
 
 Here are some ideas to get you started:
