@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div>
-![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
-</div>
+
 
 <!--
 **hastigarraga/hastigarraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +8,9 @@
 <div align="center">
   <img src="https://github.com/hastigarraga/hastigarraga/blob/master/images/header.gif" alt="header"/>
 </div>
-
+<div>
+![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
+</div>
 
 
 
