@@ -8,8 +8,10 @@
   <img src="https://github.com/hastigarraga/hastigarraga/blob/master/images/header.gif" alt="header"/>
 </div>
 
-
+<div>
 ![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
+</div>
+
 
 
 
