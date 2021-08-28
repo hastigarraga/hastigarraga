@@ -37,7 +37,7 @@ Contact with me 📝 </br></br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff&style=flat-square)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![React-Native](https://img.shields.io/badge/-React%E2%80%93Native-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/hastigarraga/)](https://github.com/hastigarraga/)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
@@ -46,15 +46,14 @@ Contact with me 📝 </br></br>
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
-<div>
+<a align="center">
 ![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
-</div>
+</a>
 ---
 
 <div align="center">
   ![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"><br> 
-![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
 </div> 
 
 
