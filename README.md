@@ -46,13 +46,10 @@ Contact with me 📝 </br></br>
 [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&link=https://github.com/hastigarraga/)](https://github.com/hastigarraga/)
 
 ![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
-<a align="center">
-![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
-</a>
+
 ---
 
 <div align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"><br> 
 </div> 
 
