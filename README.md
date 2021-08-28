@@ -15,7 +15,8 @@
     - 👨‍💻 I’m currently working on web development technologies like JavaScript, React , Redux , Postgress, etc.</br>
     - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
     - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas. </br>
-    - ⚡ Fun fact: I like music with a good coffee.</br>
+    - ⚡ Fun fact: I like music with a good coffee.
+    - 📝[Resume](https://github.com/hastigarraga/hastigarraga/files/7070120/Hernan.Astigarraga.cv.pdf)</br>
   </div>
 
 ---
