@@ -1,15 +1,36 @@
-<div align="center">
-  <h2>
+
+  <h2 align="center">
     Welcome to Hernán Astigarraga's profile! 👋
 
   </h2>
+  <div align="center">
+   <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 
-<img  align="right" height="350px" width="500px" alt="GIF" src = https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  </div>
 
 
+ 
+
+
+<!-- <img align="right" alt="GIF" height="270px" width="300px" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" > -->
+
+<img  align="right" height="250px" width="400px" alt="GIF" src = https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966>
+<div>
+    - 👨‍💻 I’m currently working on web development technologies like JavaScript, React , Redux , Postgress, etc.</br>
+    - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
+    - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas. </br>
+    - ⚡ Fun fact: I like music with a good coffee.</br>
+  </div>
+  
+
+
+
+  <div>
+ 
 ![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
-</div>
+  </div>
+
+
 <!--
 **hastigarraga/hastigarraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
