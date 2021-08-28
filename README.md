@@ -11,16 +11,17 @@
 
 ---
 <img  align="right" height="250px" width="400px" alt="GIF" src = https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966>
-<div>
+
+  **Talking about Personal Stuffs:** </br>
     - 👨‍💻 I’m currently working on web development technologies like JavaScript, React , Redux , Postgress, etc.</br>
     - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
     - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas. </br>
-    - ⚡ Fun fact: I like music with a good coffee.
+    - ⚡ Fun fact: I like music with a good coffee.</br>
     - 📝[Resume](https://github.com/hastigarraga/hastigarraga/files/7070120/Hernan.Astigarraga.cv.pdf)</br>
-  </div>
+ 
 
 ---
-Contact with me 📝 </br></br>
+**Contact with me** 📝 </br></br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernan-astigarraga/)](https://www.linkedin.com/in/hernan-astigarraga/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hernan.astigarraga.com)](mailto:hernan.astigarraga@gmail.com)
 <br />
@@ -46,13 +47,15 @@ Contact with me 📝 </br></br>
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/hastigarraga/)](https://github.com/hastigarraga/)
 [![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff&link=https://github.com/hastigarraga/)](https://github.com/hastigarraga/)
 
-![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
-
 ---
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"><br> 
 </div> 
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
 
 
 
