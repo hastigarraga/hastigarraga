@@ -20,7 +20,9 @@
 
 ---
 Contact with me 📝 </br></br>
-<a href="https://www.linkedin.com/in/hernan-astigarraga/" target="_blank" rel="noopener noreferrer"><img align="left" alt="bilgehangecici | linkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"></a><br />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernan-astigarraga/)](https://www.linkedin.com/in/hernan-astigarraga/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hernan.astigarraga.com)](mailto:hernan.astigarraga@gmail.com)
+<br />
 
 ---
 
@@ -35,6 +37,7 @@ Contact with me 📝 </br></br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff&style=flat-square)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![React-Native](https://img.shields.io/badge/-React%E2%80%93Native-61DAFB?style=flat-square&logo=react&logoColor=ffffff&style=flat-square)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
@@ -47,10 +50,10 @@ Contact with me 📝 </br></br>
 
 
 
-  <div align="center">
- 
+<div align="center">
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br> 
 ![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
-  </div>
+</div>
 
 
 <!--
@@ -68,6 +71,7 @@ Welcome to Hernán Astigarraga's profile!
 
 
 
+<a href="https://www.linkedin.com/in/hernan-astigarraga/" target="_blank" rel="noopener noreferrer"><img align="left" alt="bilgehangecici | linkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
