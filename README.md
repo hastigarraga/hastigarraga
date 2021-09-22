@@ -17,7 +17,7 @@
     - 📚 I’m currently learning everything about Frontend and Backend technologies 😅 </br>
     - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas. </br>
     - ⚡ Fun fact: I like music with a good coffee.</br>
-    - 📝[Resume](https://github.com/hastigarraga/hastigarraga/files/7211420/cv.actualizado.pdf)</br>
+    - 📝[Resume](https://github.com/hastigarraga/hastigarraga/files/7212232/Hernan.Astigarraga.cv2.pdf)</br>
  
 
 ---
