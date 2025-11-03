@@ -2,9 +2,10 @@
   Welcome to Hernán Astigarraga's profile! 👋
 </h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&vCenter=true&color=f75c7e&width=440&height=45&size=22" />
+<div align="center" style="margin-top:-40px;">
+  <img src="https://raw.githubusercontent.com/hastigarraga/hastigarraga/main/assets/dev-illustration.png" alt="developer" width="500"/>
 </div>
+>
 
 ---
 
