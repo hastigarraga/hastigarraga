@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img align="right" height="200" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF">
+  <img align="right" height="290" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF">
 </p>
 
 **Talking about Personal Stuffs:**  
@@ -22,7 +22,7 @@
 🎯 Goal: to keep growing as a Full-Stack Developer and deliver intelligent, high-impact solutions to real-world projects.
 
 ☕ Fun fact: the best lines of code are written with a good cup of coffee. 
-- 📝 [Resume](https://github.com/hastigarraga/hastigarraga/files/10699976/CV-Hernan-Astigarraga.pdf)
+- 📝 [Resume](https://github.com/user-attachments/files/23315111/Hernan.Astigarraga-engV1-2025.pdf)
 
 
 ---
