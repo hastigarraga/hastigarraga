@@ -2,9 +2,10 @@
   Welcome to Hernán Astigarraga's profile! 👋
 </h2>
 
-<div align="center" style="margin-top:-40px;">
-  <img src="https://raw.githubusercontent.com/hastigarraga/hastigarraga/main/assets/dev-illustration.png" alt="developer" width="500"/>
-</div>
+<!-- Usa tu archivo local en la repo -->
+<p align="center" style="margin-top:-40px;">
+  <img src="./assets/dev-illustration.png" alt="developer" width="500" />
+</p>
 
 ---
 
@@ -53,4 +54,4 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/hastigarraga/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=hastigarraga&style=flat-square)
