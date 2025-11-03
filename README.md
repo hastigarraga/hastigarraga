@@ -2,7 +2,7 @@
   Welcome to Hernán Astigarraga's profile! 👋
 </h2>
 
-<div align="center" style="margin-top:-60px;">
+<div align="center" style="margin-top:-40px;">
   <img src="https://raw.githubusercontent.com/hastigarraga/hastigarraga/main/assets/dev-illustration.png" alt="developer" width="500"/>
 </div>
 
