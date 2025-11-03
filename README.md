@@ -13,10 +13,15 @@
 </p>
 
 **Talking about Personal Stuffs:**  
-- 👨‍💻 Currently working on web development technologies like JavaScript, React, Redux, Node.js, Express, etc. Also in No-Code tools (Bubble & Webflow).  
-- 📚 Learning everything about Frontend and Backend technologies 😅  
-- 💪🏼 Future Goals: Keep learning and never stop creating new ideas.  
-- ⚡ Fun fact: I like music with a good coffee.  
+💻 Currently developing Full-Stack web solutions using Angular, Node.js, Express, TypeScript, and MongoDB, along with No-Code environments such as Bubble and WordPress.
+
+🤖 Specialist in Applied AI, LangGraph/MCP agents, and secure integrations with Google Workspace and external APIs.
+
+🚀 Focused on modular architectures, automation, and backend performance optimization.
+
+🎯 Goal: to keep growing as a Full-Stack Developer and deliver intelligent, high-impact solutions to real-world projects.
+
+☕ Fun fact: the best lines of code are written with a good cup of coffee. 
 - 📝 [Resume](https://github.com/hastigarraga/hastigarraga/files/10699976/CV-Hernan-Astigarraga.pdf)
 
 
